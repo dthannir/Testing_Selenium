@@ -1,0 +1,10 @@
+package commadsPractice;
+
+public class DataReadingCls {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
